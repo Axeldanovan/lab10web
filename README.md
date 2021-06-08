@@ -1,4 +1,4 @@
-#Buat file di C:\xampp\htdocs seperti berikut lab10_php_oop
+#Buat file di E:\xampp\htdocs seperti berikut lab10_php_oop
 
 ![Screenshot_207](https://user-images.githubusercontent.com/81457697/121108704-65667480-c834-11eb-8035-5ae387983ac2.png)
 
